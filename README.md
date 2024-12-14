@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ballaii
 - 🌱 I’m currently learning advanced C++
-- 📫 How to reach me: ballai.contact@gmail.com || insta: notballai
+- 📫 How to reach me: ballai.contact@gmail.com || insta: lftex.bal
 - ⚡ Fun fact: I have a goofy cat
 
 <!---
