@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ballaii
+- 👋 Hi, I’m @Ballaii, I'm 20 years old
 - 🌱 I’m currently learning advanced C++
 - 📫 How to reach me: ballai.contact@gmail.com || insta: lftex.bal
 - ⚡ Fun fact: I have a goofy cat
