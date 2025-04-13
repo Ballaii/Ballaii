@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ballaii, I'm 20 years old
-- 🌱 I’m currently learning Mobile App Development(Kotlin & Flutter)
+- 🌱 Currently working on a mental health app
 - 📫 How to reach me: ballai.contact@gmail.com || insta: lftex.bal
 - ⚡ Fun fact: I have a goofy cat
 
