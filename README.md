@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ballaii, I'm 20 years old
 - 🌱 Currently working on a mental health app
-- 📫 How to reach me: ballai.contact@gmail.com || insta: lftex.bal
+- 📫 How to reach me: ballaifoktjeno@gmail.com || insta: lftex.bal
 - ⚡ Fun fact: I have a goofy cat
 
 <!---
