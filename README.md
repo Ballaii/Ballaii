@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ballaii, I'm 20 years old
-- 🌱 Currently working on a mental health app
+- 🌱 Currently working on an FPS game
 - 📫 How to reach me: ballaifoktjeno@gmail.com || insta: lftex.bal
 - ⚡ Fun fact: I have a goofy cat
 
