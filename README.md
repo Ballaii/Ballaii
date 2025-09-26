@@ -2,7 +2,7 @@
 - 🌱 Currently working on an FPS game
 - 📫 How to reach me: ballaifoktjeno@gmail.com || insta: lftex.bal
 - ⚡ Fun fact: I have a goofy cat
-- 💼 I work at Accenture as an Intern
+- 💼 I worked at Accenture as an Intern
 
 <!---
 Ballaii/Ballaii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
