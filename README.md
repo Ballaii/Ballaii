@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ballaii, I'm 21 years old
-- 🌱 Currently working on a Souls-like RPG Arena game
+- 🌱 Currently working on a Metroidvania game
 - 📫 How to reach me: ballaifoktjeno@gmail.com || insta: lftex.bal
 - ⚡ Fun fact: I have a goofy cat
 - 💼 I worked at Accenture as an Intern
