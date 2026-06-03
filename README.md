@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Ballaii, I'm 21 years old
-- 🌱 Currently working on a Metroidvania game
+- 👋 Hi, I’m @Ballaii, I'm 22 years old
+- 🌱 Currently working on a Hack and Slash game.
 - 📫 How to reach me: ballaifoktjeno@gmail.com || insta: lftex.bal
-- ⚡ Fun fact: I have a goofy cat
-- 💼 I worked at Accenture as an Intern
+- ⚡ I like contributing to mods or tools regarding my favorite games.
 
 <!---
 Ballaii/Ballaii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
