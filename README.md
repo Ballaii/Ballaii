@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ballaii, I'm 22 years old
-- 🌱 Currently working on a Hack and Slash game.
+- 🌱 Currently working on a CS2 Machine learning based CS2 AntiCheat.
 - 📫 How to reach me: ballaifoktjeno@gmail.com || insta: lftex.bal
 - ⚡ I like contributing to mods or tools regarding my favorite games.
 
